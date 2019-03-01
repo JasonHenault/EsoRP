@@ -1,0 +1,12 @@
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\updater.vbprojAssemblyReference.cache
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\updater.Form1.resources
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\updater.Resources.resources
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\updater.vbproj.GenerateResource.cache
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\updater.vbproj.CoreCompileInputs.cache
+D:\Projects\EsoRP\updater\updater\updater\bin\Debug\Install EsoRP.exe.config
+D:\Projects\EsoRP\updater\updater\updater\bin\Debug\Install EsoRP.exe
+D:\Projects\EsoRP\updater\updater\updater\bin\Debug\Install EsoRP.pdb
+D:\Projects\EsoRP\updater\updater\updater\bin\Debug\Install EsoRP.xml
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\Install EsoRP.exe
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\Install EsoRP.xml
+D:\Projects\EsoRP\updater\updater\updater\obj\Debug\Install EsoRP.pdb
